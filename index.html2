@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Lab2</title>
+        <meta charset="UTF-8">
+        <meta name="description" content="Free web tutorials">
+        <meta name ="keywords" content ="Html,CSS,Javascript">
+        <meta name ="author" content="John Doe">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    </head>
+    <body>
+        <h1>My second webpage</h1>
+        <h3>Subtitle</h3>
+        <p>Lorem ipsum dolor sit amet,consectetur adipsicng elit.Inventor nulla facere velit rapellendus dolor</p>
+        <table>
+            <tr>
+                <th>Header 1</th>
+                <th>Header 2</th>
+                </tr>
+                <td><a href ="http://www.facebook.com">Facebook</a>  <td>Data 2</td>
+                </tr>
+        </table>
+                  <form>
+                    <input type="text">
+                  </form>  
+    </body>
+    </html>
+
